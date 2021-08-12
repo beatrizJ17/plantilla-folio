@@ -568,7 +568,7 @@ p {
 # Services
 --------------------------------------------------------------*/
 #services {
-  background: #f7f7f7;
+  background: #dfddf0;
   position: relative;
   padding-bottom: 80px;
 }
@@ -773,7 +773,7 @@ p {
 #journal, #journal-blog {
   height: auto;
   width: 100%;
-  background: #f7f7f7;
+  background: #dfddf0;
   padding-bottom: 60px;
   position: relative;
 }
@@ -930,7 +930,7 @@ p {
 
 /* main content */
 .main-content {
-  background: #f7f7f7;
+  background: #dfddf0;
 }
 
 .main-content .container-main {
@@ -1051,7 +1051,7 @@ blockquote {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #f7f7f7;
+  background: #dfddf0;
   padding-top: 50px;
   padding-bottom: 50px;
 }
@@ -1123,7 +1123,7 @@ blockquote {
     float: none;
     width: 100%;
     text-align: center;
-    border-top: 1px solid #f7f7f7;
+    border-top: 1px solid #dfddf0;
     line-height: 45px;
     margin-left: 0;
     padding-top: 10px;
@@ -1193,7 +1193,7 @@ blockquote {
     float: none;
     width: 100%;
     text-align: center;
-    border-top: 1px solid #f7f7f7;
+    border-top: 1px solid #dfddf0;
     line-height: 45px;
     margin-left: 0;
     padding-top: 10px;
@@ -1263,7 +1263,7 @@ blockquote {
     float: none;
     width: 100%;
     text-align: center;
-    border-top: 1px solid #f7f7f7;
+    border-top: 1px solid #dfddf0;
     line-height: 45px;
     margin-left: 0;
     padding-top: 10px;
@@ -1333,7 +1333,7 @@ blockquote {
     float: none;
     width: 100%;
     text-align: center;
-    border-top: 1px solid #f7f7f7;
+    border-top: 1px solid #dfddf0;
     line-height: 45px;
     margin-left: 0;
     padding-top: 10px;
@@ -1402,7 +1402,7 @@ blockquote {
     float: none;
     width: 100%;
     text-align: center;
-    border-top: 1px solid #f7f7f7;
+    border-top: 1px solid #dfddf0;
     line-height: 45px;
     margin-left: 0;
     padding-top: 10px;
